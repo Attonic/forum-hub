@@ -1,3 +1,6 @@
 spring:
   application:
     name: Forum Hub
+
+  profiles:
+    active: dev
